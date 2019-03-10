@@ -15,4 +15,5 @@ Order of notebooks is listed below.
 
 ### Week 2
 1. Fashion MNIST: [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb)
-[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb) Here, I changed the number of neurons in the middle layer from 128 to 1024 to increase the test accuracy to 98%.
+[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb) <br>Here, I changed the number of neurons in the middle layer from 128 to 1024 to increase the test accuracy to 98%.
+2. Coming soon.
