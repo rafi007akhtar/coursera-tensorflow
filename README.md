@@ -18,3 +18,5 @@ Order of notebooks is listed below.
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb) <br>Here, I changed the number of neurons in the middle layer from 128 to 1024 to increase the test accuracy to 98%.
 2. Callbacks: [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb)
+3. Exercise (MNIST handwritten digits) [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
+[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
