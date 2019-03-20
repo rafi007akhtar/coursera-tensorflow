@@ -24,3 +24,5 @@ Order of notebooks is listed below.
 ### Week 3
 1. Convolution Neural Network (with exercises solved, mostly): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb)
+2. Convolutins_Sidebar (replaced some manual multiplication with dot product from `numpy`): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Convolutions_Sidebar.ipynb)
+[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Convolutions_Sidebar.ipynb)
