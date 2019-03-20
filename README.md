@@ -18,7 +18,7 @@ Order of notebooks is listed below.
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb) <br>Here, I changed the number of neurons in the middle layer from 128 to 1024 to increase the test accuracy to 98%.
 2. Callbacks: [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb)
-3. Exercise (MNIST handwritten digits) [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
+3. Exercise 2 (MNIST handwritten digits) [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
 
 ### Week 3
@@ -26,3 +26,8 @@ Order of notebooks is listed below.
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb)
 2. Convolutins_Sidebar (replaced some manual multiplication with dot product from `numpy`): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Convolutions_Sidebar.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Convolutions_Sidebar.ipynb)
+3. Exercise 3 (convnets on MNIST dataset): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb)
+[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb)
+
+### Week 4
+Coming soon.
