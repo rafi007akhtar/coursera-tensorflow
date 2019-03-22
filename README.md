@@ -35,3 +35,5 @@ Order of notebooks is listed below.
 2. Hourse or Human (with validation): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_2_Lesson_3_Notebook.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_2_Lesson_3_Notebook.ipynb) <br>
 Here, the CNN structure was changed a little, along with optimizer changed to Adam, and that increased the validation accuracy by a small amount.
+3. Compacted Images (error-freed): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_8_Lesson_4_Notebook.ipynb)
+[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_8_Lesson_4_Notebook.ipynb)
