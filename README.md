@@ -30,4 +30,5 @@ Order of notebooks is listed below.
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb)
 
 ### Week 4
-Coming soon.
+1. Horse-or-Human-NoValidation (needs more work): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_NoValidation.ipynb)
+[[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_NoValidation.ipynb)
