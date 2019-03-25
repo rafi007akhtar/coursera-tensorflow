@@ -9,7 +9,7 @@ Google Colab notebooks containing codes I wrote while learning Tensorflow by dee
 
 :a: **Grade** achieved: `100.0%`
 
-
+---
 
 ### :notebook: Notebooks
 All notebooks are saved in [this](https://drive.google.com/open?id=1CGP_p9b7lJsbq_Im7Wcoh51ETdUdDEbU) Google Drive link.
@@ -20,8 +20,8 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
   <thead>
     <th></th>
     <th>:clipboard: Description</th>
-    <th>GitHub :link:</th>
-    <th>Colab :link:</th>
+    <th>:link: GitHub</th>
+    <th>:link: Colab</th>
   </thead>
   
   <tbody>
@@ -149,3 +149,6 @@ Here, the CNN structure was changed a little, along with optimizer changed to Ad
 4. Exercise 4 (Happy or Sad): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise4_Question.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise4_Question.ipynb)
 -->
+
+## License
+[MIT License](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/LICENSE)
