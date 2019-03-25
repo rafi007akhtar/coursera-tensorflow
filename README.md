@@ -5,14 +5,119 @@ Google Colab notebooks containing codes I wrote while learning Tensorflow by dee
 
 Link to the course: [[link]](https://www.coursera.org/learn/introduction-tensorflow)
 
-Order of notebooks is listed below.
+### Notebooks
+You can get all notebooks from [this](https://drive.google.com/open?id=1CGP_p9b7lJsbq_Im7Wcoh51ETdUdDEbU) Google Drive link.
 
+Alternatively, you can view the notebooks here on GitHub or in Colab, from the contents below.
+
+<table>
+  <thead>
+    <th></th>
+    <th>Comments</th>
+    <th>GitHub link</th>
+    <th>Colab link</th>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <th>Week #1</th>
+      <td>Intro to Tensorflow</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Intro_to_Tensorflow.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Intro_to_Tensorflow.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Exercise 1 (House Prices)</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Week #2</th>
+      <td>Fashion MNIST</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Callbacks</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Exercise 2 (MNIST handwritten digits)</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Week #3</th>
+      <td>Convolutional Neural Networks (most execises solved) </td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Convolutions sidebar <br> Used some <code>numpy</code> to replace some manual multiplication with <code>np.dot</code> </td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Convolutions_Sidebar.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Exercise 3 (convnets on MNIST dataset)</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb)">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Week #4</th>
+      <td>Horse-or-Human without validation (needs more work)</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_NoValidation.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_NoValidation.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Horse-or-Human with validation</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_2_Lesson_3_Notebook.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_2_Lesson_3_Notebook.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Compacted images (error freed)</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_8_Lesson_4_Notebook.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_8_Lesson_4_Notebook.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Exercise 4 (Happy or Sad)</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise4_Question.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise4_Question.ipynb">link</a> ]</td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
 ### Week 1
 1. Intro to Tensorflow: [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Intro_to_Tensorflow.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Intro_to_Tensorflow.ipynb)
 2. Exercise 1 (House Prices): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_1_House_Prices_Question.ipynb)
-
 ### Week 2
 1. Fashion MNIST: [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_2_Fashion_MNIST.ipynb) <br>Here, I changed the number of neurons in the middle layer from 128 to 1024 to increase the test accuracy to 98%.
@@ -20,7 +125,6 @@ Order of notebooks is listed below.
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_4_Lesson_4_Callbacks.ipynb)
 3. Exercise 2 (MNIST handwritten digits) [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise2.ipynb)
-
 ### Week 3
 1. Convolution Neural Network (with exercises solved, mostly): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_6_Lesson_2_Notebook.ipynb)
@@ -28,7 +132,6 @@ Order of notebooks is listed below.
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Convolutions_Sidebar.ipynb)
 3. Exercise 3 (convnets on MNIST dataset): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_3_Question.ipynb)
-
 ### Week 4
 1. Horse-or-Human-NoValidation (needs more work): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_NoValidation.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_NoValidation.ipynb)
@@ -39,3 +142,4 @@ Here, the CNN structure was changed a little, along with optimizer changed to Ad
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_1_Part_8_Lesson_4_Notebook.ipynb)
 4. Exercise 4 (Happy or Sad): [[link-github]](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise4_Question.ipynb)
 [[link-colab]](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise4_Question.ipynb)
+-->
