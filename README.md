@@ -3,19 +3,25 @@ Google Colab notebooks containing codes I wrote while learning Tensorflow by dee
 
 ## Course 1: Intro to Tensorflow for AI, ML, and DL
 
-Link to the course: [[link]](https://www.coursera.org/learn/introduction-tensorflow)
+:link: **Link** to the course: [ [link](https://www.coursera.org/learn/introduction-tensorflow) ] 
 
-### Notebooks
-You can get all notebooks from [this](https://drive.google.com/open?id=1CGP_p9b7lJsbq_Im7Wcoh51ETdUdDEbU) Google Drive link.
+:page_facing_up: **Certificate** of completion [ [link](https://www.coursera.org/account/accomplishments/certificate/8Z4ZEHDMNK2C) ]
 
-Alternatively, you can view the notebooks here on GitHub or in Colab, from the contents below.
+:a: **Grade** achieved: `100.0%`
+
+
+
+### :notebook: Notebooks
+All notebooks are saved in [this](https://drive.google.com/open?id=1CGP_p9b7lJsbq_Im7Wcoh51ETdUdDEbU) Google Drive link.
+
+Alternatively, you can view the notebooks here on GitHub or in Colab, from the table below.
 
 <table>
   <thead>
     <th></th>
-    <th>Comments</th>
-    <th>GitHub link</th>
-    <th>Colab link</th>
+    <th>:clipboard: Description</th>
+    <th>GitHub :link:</th>
+    <th>Colab :link:</th>
   </thead>
   
   <tbody>
