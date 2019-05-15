@@ -127,6 +127,8 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 [ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_4_Lesson_2_Notebook.ipynb) ]
 2. Week 1 assignment: [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_5_Question.ipynb) ]
 [ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_5_Question.ipynb) ]
+3. Horses or Humans (with augmentation): [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb)]
+[ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb)]
 
 
 <!--
