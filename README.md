@@ -132,6 +132,10 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 3. Horses or Humans (with augmentation): [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb)]
 [ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb)]
 
+### Week 2
+1. Week 2 Assignment (couldn't get the desired accuracy due to possibly corrupt data, as mentioned in epoch 1): [ [link-github](Exercise_6_Question.ipynb) ]
+[[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_6_Question.ipynb)]
+
 
 <!--
 ### Week 1
