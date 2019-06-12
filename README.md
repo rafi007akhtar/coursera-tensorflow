@@ -136,6 +136,10 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 1. Week 2 Assignment (couldn't get the desired accuracy due to possibly corrupt data, as mentioned in epoch 1): [ [link-github](Exercise_6_Question.ipynb) ]
 [[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_6_Question.ipynb)]
 
+### Week 3
+1. Week 3 Assignment (tried with a different last layer, hence accuracy slightly lower than desired): [ [link-github](Exercise_7_Question.ipynb) ]
+[[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_7_Question.ipynb)
+
 
 <!--
 ### Week 1
