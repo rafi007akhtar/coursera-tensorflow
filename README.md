@@ -122,6 +122,19 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 
 ## Course 2: Convolutional Neural Networks in TensorFlow
 
+:link: **Link** to the course: [ [link](https://www.coursera.org/account/accomplishments/certificate/5PHJ26LHE94A) ] 
+
+:page_facing_up: **Certificate** of completion [ [link](https://www.coursera.org/account/accomplishments/certificate/8Z4ZEHDMNK2C) ]
+
+:a: **Grade** achieved: `100.0%`
+
+---
+
+### :notebook: Notebooks
+All notebooks are saved in [this](https://drive.google.com/open?id=1CGP_p9b7lJsbq_Im7Wcoh51ETdUdDEbU) Google Drive link.
+
+Alternatively, you can view the notebooks here on GitHub or in Colab, from the table below.
+
 <table>
   <thead>
     <th></th>
@@ -181,7 +194,7 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
     </tr>
     <tr>
       <th>Week #4</th>
-      <td>HWeek 4 Assignment</td>
+      <td>Week 4 Assignment</td>
       <td>[ <a href="Exercise_8_Question.ipynb">link</a> ]</td>
       <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_8_Question.ipynb">link</a> ]</td>
     </tr>
@@ -196,15 +209,12 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 [ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_5_Question.ipynb) ]
 3. Horses or Humans (with augmentation): [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb)]
 [ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb)]
-
 ### Week 2
 1. Week 2 Assignment: (couldn't get the desired accuracy due to possibly corrupt data, as mentioned in epoch 1): [ [link-github](Exercise_6_Question.ipynb) ]
 [[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_6_Question.ipynb)]
-
 ### Week 3
 1. Week 3 Assignment: (tried with a different last layer, hence accuracy slightly lower than desired): [ [link-github](Exercise_7_Question.ipynb) ]
 [[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_7_Question.ipynb)
-
 ### Week 4
 1. Week 4 Assignment: [[link-github](Exercise_8_Question.ipynb)]
 [[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_8_Question.ipynb)]
