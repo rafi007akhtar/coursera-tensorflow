@@ -122,9 +122,74 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 
 ## Course 2: Convolutional Neural Networks in TensorFlow
 
-(Will be reformatted once the course is completed)
+<table>
+  <thead>
+    <th></th>
+    <th>:clipboard: Description</th>
+    <th>:link: GitHub</th>
+    <th>:link: Colab</th>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <th>Week #1</th>
+      <td>Exploring larger datasets</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_4_Lesson_2_Notebook.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_4_Lesson_2_Notebook.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Week 1 assignment</td>
+      <td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_5_Question.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_5_Question.ipynb">link</a> ]</td>
+    </tr>
+	<tr>
+		<th></th>
+		<td>Horses or Humans (with augmentation)</td>
+		<td>[ <a href="https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb">link</a> ]</td>
+		<td>[ <a href="ttps://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Horse_or_Human_WithAugmentation.ipynb">link</a> ]</td>
+	</tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Week #2</th>
+      <td>Week 2 Assignment <br>(couldn't get the desired accuracy due to possibly corrupt data, as mentioned in epoch 1)</td>
+      <td>[ <a href="Exercise_6_Question.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_6_Question.ipynb">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Week #3</th>
+      <td>Week 3 Assignment <br> (tried with a different last layer, hence accuracy slightly lower than desired) </td>
+      <td>[ <a href="Exercise_7_Question.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_7_Question.ipynb)">link</a> ]</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Week #4</th>
+      <td>HWeek 4 Assignment</td>
+      <td>[ <a href="Exercise_8_Question.ipynb">link</a> ]</td>
+      <td>[ <a href="https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_8_Question.ipynb">link</a> ]</td>
+    </tr>
+  </tbody>
+</table>
 
-### Week 1
+
+<!-- ### Week 1
 1. Exploring larger datasets: [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_4_Lesson_2_Notebook.ipynb) ]
 [ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_4_Lesson_2_Notebook.ipynb) ]
 2. Week 1 assignment: [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_5_Question.ipynb) ]
@@ -143,7 +208,7 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
 ### Week 4
 1. Week 4 Assignment: [[link-github](Exercise_8_Question.ipynb)]
 [[link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/Exercise_8_Question.ipynb)]
-
+ -->
 
 <!--
 ### Week 1
