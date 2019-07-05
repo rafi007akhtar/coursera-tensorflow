@@ -201,6 +201,16 @@ Alternatively, you can view the notebooks here on GitHub or in Colab, from the t
   </tbody>
 </table>
 
+---
+
+# Course 3
+
+(Will be reformatted once course is complete)
+
+## Week 1
+1. NLP Practise: [ [link-github](NLP_practise.ipynb) ]
+[ [link-colab](https://colab.research.google.com/github/rafi007akhtar/coursera-tensorflow/blob/master/NLP_practise.ipynb) ]
+
 
 <!-- ### Week 1
 1. Exploring larger datasets: [ [link-github](https://github.com/rafi007akhtar/coursera-tensorflow/blob/master/Course_2_Part_4_Lesson_2_Notebook.ipynb) ]
